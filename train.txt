@@ -1,0 +1,1 @@
+python train_pet_nose.py -e 40 -b 64 -lr 0.001 -p train_pet_nose.png -s pet_nose_model.pth -cuda Y

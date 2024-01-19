@@ -1,0 +1,1 @@
+python test_pet_nose.py -b 64 -s pet_nose_model.pth -cuda Y
